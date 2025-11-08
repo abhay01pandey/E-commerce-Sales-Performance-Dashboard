@@ -23,16 +23,20 @@ Power BI: Used for the full process: data cleaning and transformation in Power Q
 # Workflow
 The dashboard development followed a robust BI process focused on clear, actionable data segmentation:
 
-Data Ingestion & Cleaning: Raw sales data was imported into Power BI. Power Query was used to ensure data types were correctly formatted and to handle any missing or anomalous values
+Data Ingestion & Cleaning: Raw sales data was imported into Power BI. Power Query was used to ensure data types were correctly formatted and to handle any missing values
 .
 Metric Calculation (DAX): Measures for core KPIs (Total Amount, Profit, AOV) were defined using DAX.
 
 Visualization & Segmentation: Visuals were built to segment performance across four key dimensions:
 
-Geographic: Sales amount by State (Maharashtra, Madhya Pradesh, etc.).
+Geographic: Sales amount by State (Maharashtra, Madhya Pradesh).
+
 Product: Quantity by Category (Clothing, Electronics, Furniture).
+
 Customer: Sales amount by Top Customer Name.
+
 Time: Monthly profit trend analysis.
+
 Interactivity: Filters for Quarter (Qtr 1-4) and State were implemented to allow dynamic drilling into the data.
 
 # Dashboard Insights
