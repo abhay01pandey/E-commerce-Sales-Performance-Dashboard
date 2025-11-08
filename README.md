@@ -52,7 +52,7 @@ Sub-Category Drivers: Printers and Bookcases are the most profitable sub-categor
 
 Payment Preference: COD (44%) remains the preferred payment method, followed by UPI (21%), suggesting a trust-based consumer base.
 
-# Results or Conclusion
+# Results
 The dashboard successfully translated raw sales data into actionable business intelligence. The most critical finding is the severe mid-year profit dip, which suggests potential issues with inventory management, marketing strategy, or costs during that period.
 
 The platform should leverage the high-profit sub-categories (Printers, Bookcases) and reinforce its marketing efforts in the high-demand states to stabilize and increase year-round profitability.
